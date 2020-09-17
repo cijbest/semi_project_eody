@@ -67,7 +67,7 @@
 
 #### 3. Searcher/Review 작성
 
-> multipartFile 을 활용한 리뷰 작성 내 여러 이미지 파일 업로드 처리\
+> multipartFile 을 활용한 리뷰 작성 내 여러 이미지 파일 업로드 처리
 
 ![3-1](https://user-images.githubusercontent.com/24764210/93493681-23fd0480-f947-11ea-9f6e-6ab60b88d173.png)
 
