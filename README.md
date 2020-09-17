@@ -38,7 +38,29 @@
 
 ### 핵심 기능
 
-#### 1. 거리우선탐색 구현 방안
+#### 1. 회원가입 기능
+
+  #### 1-1. 아이디 중복 체크
+  
+  * 사용자(SEARCHER)의 아이디가 이미 가입되어 있다면 `이미 사용 중인 아이디입니다.`라는 문구를 표시
+  
+  ![id1](https://user-images.githubusercontent.com/24764210/93498764-26625d00-f94d-11ea-92e9-a989fd977649.jpg)
+  
+  * 사용자(SEARCHER)의 아이디가 가입되어 있지 않다면 `사용 가능한 아이디 입니다.`라는 문구를 표시
+  
+  ![id2](https://user-images.githubusercontent.com/24764210/93498767-26faf380-f94d-11ea-88c3-fef49ece984c.jpg)
+  
+  #### 1-2. 비밀번호 확인
+  
+  * 사용자(SEARCHER)의 비밀번호 입력을 이중으로 받아 두 개의 비밀번호가 같을 시 `비밀번호가 일치합니다!`라는 문구를 표시
+  
+  ![p1](https://user-images.githubusercontent.com/24764210/93498768-27938a00-f94d-11ea-9914-c63131940081.jpg)
+  
+  * 사용자(SEARCHER)의 비밀번호 입력을 이중으로 받아 두 개의 비밀번호가 다를 시 `비밀번호가 다릅니다!`라는 문구를 표시
+  
+  ![p2](https://user-images.githubusercontent.com/24764210/93498769-27938a00-f94d-11ea-999b-4ddc94d4cebb.jpg)
+
+#### 2. 거리우선탐색 구현 방안
 
 > (`장소탐색 고객`) 참석자 거리 우선 탐색 알고리즘
 
@@ -56,7 +78,7 @@
 
 ![1](https://user-images.githubusercontent.com/24764210/93493659-1f385080-f947-11ea-8d8b-4da563442adc.png)
 
-#### 2. Searcher/Myroom
+#### 3. Searcher/Myroom
 
 > JSTL의 forEach, choose 구문을 활용
 > 예약 데이터의 상태(Shop 운영자의 승인)에 따라 동적으로 예약 데이터 Display.
@@ -65,25 +87,25 @@
 
 ![2](https://user-images.githubusercontent.com/24764210/93493667-21021400-f947-11ea-8523-bf70419a959d.png)
 
-#### 3. Searcher/Review 작성
+#### 4. Searcher/Review 작성
 
 > multipartFile 을 활용한 리뷰 작성 내 여러 이미지 파일 업로드 처리
 
 ![3-1](https://user-images.githubusercontent.com/24764210/93493681-23fd0480-f947-11ea-9f6e-6ab60b88d173.png)
 
-#### 4. Searcher/Myroom Review List
+#### 5. Searcher/Myroom Review List
 
 > Ajax를 이용한 JSON 비동기 데이터 송수신
 
 ![3-2](https://user-images.githubusercontent.com/24764210/93493686-25c6c800-f947-11ea-9989-02925139d030.png)
 
-#### 5. 기상청 외부 API
+#### 6. 기상청 외부 API
 
 > 기상청 API로 날씨데이터를 주기적으로 요청하여 화면 Display
 
 ![5](https://user-images.githubusercontent.com/24764210/93493700-295a4f00-f947-11ea-8b9d-2b22b8bcbcc2.png)
 
-#### 6. 카카오지도 외부 API
+#### 7. 카카오지도 외부 API
 
 > Searcher에 의해 선택된 지역(지하철역)의 지도 Display & 마커 표시
 
