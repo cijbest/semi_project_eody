@@ -88,3 +88,99 @@
 > Searcher에 의해 선택된 지역(지하철역)의 지도 Display & 마커 표시
 
 ![6](https://user-images.githubusercontent.com/24764210/93493708-2b241280-f947-11ea-811d-f2c91ad4bcd8.png)
+
+
+### 화면 구성
+
+#### * SEARCHER
+
+##### - 메인
+
+![I1](https://user-images.githubusercontent.com/24764210/93496010-b30b1c00-f949-11ea-93dc-0c8eba46d2cc.jpg)
+
+##### - 로그인
+
+![I2](https://user-images.githubusercontent.com/24764210/93496013-b3a3b280-f949-11ea-86f4-a4379afd6a75.jpg)
+
+##### - 회원가입
+
+![I3](https://user-images.githubusercontent.com/24764210/93496014-b43c4900-f949-11ea-94fe-8210a5ff826c.jpg)
+
+##### - 지역 및 모임 추천을 위한 정보 입력
+
+![I4](https://user-images.githubusercontent.com/24764210/93496016-b4d4df80-f949-11ea-917b-bb10386943ce.jpg)
+
+##### - 중간 지점으로 찾기
+
+![I5](https://user-images.githubusercontent.com/24764210/93496018-b4d4df80-f949-11ea-9e6b-382c3d44b2ef.jpg)
+
+##### - 지역으로 검색하기 결과
+
+![I6](https://user-images.githubusercontent.com/24764210/93496020-b56d7600-f949-11ea-9535-df7ad4132992.jpg)
+
+##### - 지역 추천 
+
+![I7](https://user-images.githubusercontent.com/24764210/93496023-b6060c80-f949-11ea-96fe-9cfb36be181c.png)
+
+##### - 지역 내 장소 추천 
+
+![I8](https://user-images.githubusercontent.com/24764210/93496027-b69ea300-f949-11ea-8bed-2573b4dcc0b5.png)
+
+##### - 장소 상세 및 예약
+
+![I9](https://user-images.githubusercontent.com/24764210/93496030-b69ea300-f949-11ea-878d-474b7f1baf3c.png)
+
+##### - Myroom (예약내역 확인)
+
+![I7](https://user-images.githubusercontent.com/24764210/93496022-b56d7600-f949-11ea-8951-99a3dccf2aea.jpg)
+
+##### - Myroom (리뷰 쓰기)
+
+![I10](https://user-images.githubusercontent.com/24764210/93496032-b7373980-f949-11ea-96db-f7af2bdab301.png)
+
+##### - Myroom (내 정보 수정)
+
+![I11](https://user-images.githubusercontent.com/24764210/93496033-b7373980-f949-11ea-8573-4ca408dcc01c.jpg)
+
+#### * MANAGER
+
+##### - 메인
+
+![I12](https://user-images.githubusercontent.com/24764210/93496035-b7cfd000-f949-11ea-98b1-585a47dff5fc.png)
+
+##### - 로그인
+
+![I13](https://user-images.githubusercontent.com/24764210/93496037-b7cfd000-f949-11ea-9ee0-f433b30dc5fa.png)
+
+##### - 로그인 성공 시 메인
+
+![I14](https://user-images.githubusercontent.com/24764210/93496040-b8686680-f949-11ea-8a32-f000999d3981.png)
+
+##### - 가게 업로드
+
+![I15](https://user-images.githubusercontent.com/24764210/93496046-b8686680-f949-11ea-81cb-118164c0674c.png)
+
+##### - 가게 등록 후 메인
+
+![I16](https://user-images.githubusercontent.com/24764210/93496047-b900fd00-f949-11ea-9a3b-5f0ec14d767f.png)
+
+##### - 가게 상세
+
+![I19](https://user-images.githubusercontent.com/24764210/93496048-b9999380-f949-11ea-99c8-6d17d304f5d8.JPG)
+
+##### - 가게 정보 수정
+
+![I20](https://user-images.githubusercontent.com/24764210/93496052-b9999380-f949-11ea-8c14-d5d9d7ad3f77.png)
+
+##### - 장소 상세 화면(예약 현황)
+
+![I21](https://user-images.githubusercontent.com/24764210/93496054-ba322a00-f949-11ea-8f98-2f3acec0e469.png)
+
+##### - 장소 상세 화면(리뷰 현황)
+
+![I22](https://user-images.githubusercontent.com/24764210/93496055-ba322a00-f949-11ea-9b0d-943197c83ccb.png)
+
+##### - 가게 현황(조회수, 평균 평점, 예약 수)
+
+![I23](https://user-images.githubusercontent.com/24764210/93496057-bacac080-f949-11ea-9523-76ccaf8a5e3c.png)
+
